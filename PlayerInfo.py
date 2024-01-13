@@ -1,4 +1,4 @@
-class player_info:
+class PlayerInfo:
 
     def __init__(self, game_number):
         self.game_number = game_number
