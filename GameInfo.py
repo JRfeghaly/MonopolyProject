@@ -1,7 +1,7 @@
-from properties import *
+from Property import *
 
 
-class game_info:
+class GameInfo:
 
     def __init__(self, game_number):
         properties_list = []
