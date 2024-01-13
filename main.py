@@ -1,6 +1,6 @@
-from game_info import *
-from player_info import *
-from properties import *
+from GameInfo import *
+from PlayerInfo import *
+from Property import *
 
 
 def starting_money(game_number):
