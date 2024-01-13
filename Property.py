@@ -1,4 +1,4 @@
-class properties:
+class roperties:
 
     def __init__(self, case_number, case_type, case_type_number, case_name, houses, is_mortgaged, owner):
 
